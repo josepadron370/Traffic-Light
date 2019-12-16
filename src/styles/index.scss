@@ -1,5 +1,35 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.lightContainer {
+    background-color: black;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+}
+
+.light {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: pink;
+}
+
+.off {
+    opacity: 0.5 !important;
+}
+
 /* 
 
     You can write your own styles here...
